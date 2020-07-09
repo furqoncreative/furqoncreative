@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  🌱 I’m currently learning Android Development
+  🌱 I'm currently focused on learning Android Development and love Kotlin so much ❤ 
