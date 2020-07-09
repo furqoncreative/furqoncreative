@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Deden, Welcome to my github 👋
 
 <!--
 **furqoncreative/furqoncreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
