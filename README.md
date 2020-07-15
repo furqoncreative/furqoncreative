@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 -->
 
   🌱 I'm currently focused on learning Android Development and love Kotlin so much ❤ 
+
+![Deden Muhamad Furqon's github stats](https://github-readme-stats.vercel.app/api?username=furqoncreative&show_icons=true&hide=["issues"])
