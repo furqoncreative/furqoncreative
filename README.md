@@ -18,4 +18,7 @@ Here are some ideas to get you started:
   
 [![Twitter Badge](https://img.shields.io/badge/-Deden_Muhamad_Furqon-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/furqoncreative)](https://twitter.com/furqoncreative)  [![Linkedin Badge](https://img.shields.io/badge/-Deden_Muhamad_Furqon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/furqon-creative-784866194//)](https://www.linkedin.com/in/furqon-creative-784866194/) [![Gmail Badge](https://img.shields.io/badge/-furqoncreative24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:furqoncreative24@gmail.com)](mailto:furqoncreative24@gmail.com)
 
-![Deden Muhamad Furqon's github stats](https://github-readme-stats.vercel.app/api?username=furqoncreative&show_icons=true&hide=["issues"])
+<p>
+   <img src="https://github-readme-stats.sera5-dev.vercel.app/api?username=furqoncreative&hide=stars&show_icons=true&count_private=true&include_all_commits=true&title_color=#008080&icon_color=#008080&hide_border=true" width="">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqoncreative&hide_border=true&layout=compact&title_color=000000&tetx_color=000000" width="">
+</p>
