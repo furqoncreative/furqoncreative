@@ -32,4 +32,35 @@ Here are some ideas to get you started:
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     22 repos            ███████░░░░░░░░░░░░░░░░░░   29.33% 
+Kotlin                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.33% 
+PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.33% 
+JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
+
+
+
 <!--END_SECTION:waka-->
