@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 
    <img src="https://github-readme-stats.sera5-dev.vercel.app/api?username=furqoncreative&hide=stars&show_icons=true&count_private=true&include_all_commits=true&title_color=#008080&icon_color=#008080&hide_border=true" width="">
 
+### Strong in-
 
+Android studio, Kotlin, Java, Firebase, Figma, Git, Github.
+
+### Familiar with-
+Linux, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter, Microsoft Azure, AWS.
 
 ### 📊 Weekly development breakdown
 
