@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ![Twitter Follow](https://img.shields.io/twitter/follow/furqoncreative?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Deden_Muhamad_Furqon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/furqoncreative/)
 ![GitHub followers](https://img.shields.io/github/followers/furqoncreative?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=furqoncreative.furqoncreative)
 ![Waka Readme](https://github.com/furqoncreative/furqoncreative/workflows/Waka%20Readme/badge.svg)
 
 <p>
