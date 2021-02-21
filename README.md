@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 Android studio, Kotlin, Firebase, Figma, Git, Github.
 
 ### Familiar with-
-Linux Rest API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
+Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 
 ### 📊 Weekly development breakdown
 
