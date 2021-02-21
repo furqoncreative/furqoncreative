@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 ### Strong in-
 
-Android studio, Kotlin, Java, Firebase, Figma, Git, Github.
+Android studio, Kotlin, Firebase, Figma, Git, Github.
 
 ### Familiar with-
-Linux, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter, Microsoft Azure, AWS.
+Linux Rest API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 
 ### 📊 Weekly development breakdown
 
