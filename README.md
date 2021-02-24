@@ -35,13 +35,13 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 134 Contributions in the Year 2021
  > 
-> 📦 866.5 kB Used in Github's Storage 
+> 📦 866.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
