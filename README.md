@@ -39,7 +39,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 
 **🐱 My Github Data** 
 
-> 🏆 188 Contributions in the Year 2021
+> 🏆 195 Contributions in the Year 2021
  > 
 > 📦 881.5 kB Used in Github's Storage 
  > 
