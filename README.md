@@ -35,7 +35,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
@@ -108,5 +108,5 @@ JavaScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2021
+ Last Updated on 13/07/2021
 <!--END_SECTION:waka-->
