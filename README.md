@@ -41,7 +41,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 
 > 🏆 581 Contributions in the Year 2021
  > 
-> 📦 927.3 kB Used in Github's Storage 
+> 📦 931.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -108,5 +108,5 @@ JavaScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2021
+ Last Updated on 23/08/2021
 <!--END_SECTION:waka-->
