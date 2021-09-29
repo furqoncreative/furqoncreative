@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![Waka Readme](https://github.com/furqoncreative/furqoncreative/workflows/Waka%20Readme/badge.svg)
 
-   <img src="https://github-readme-stats.furqoncreative.vercel.app/api?username=furqoncreative&hide=stars&show_icons=true&count_private=true&include_all_commits=true&title_color=#008080&icon_color=#008080&hide_border=true" width="">
+   <img src="https://github-readme-stats.sera5-dev.vercel.app/api?username=furqoncreative&hide=stars&show_icons=true&count_private=true&include_all_commits=true&title_color=#008080&icon_color=#008080&hide_border=true" width="">
 
 ### Strong in-
 
