@@ -35,7 +35,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![](https://komarev.com/ghpvc/?username=furqoncreative&style=flat-square)
 
 **🐱 My Github Data** 
 
