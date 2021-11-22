@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Deden_Muhamad_Furqon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/furqoncreative/)
 ![GitHub followers](https://img.shields.io/github/followers/furqoncreative?label=Follow&style=social)
 
+<img src="https://github-readme-stats.sera5-dev.vercel.app/api?username=furqoncreative&hide=stars&show_icons=true&count_private=true&include_all_commits=true&title_color=#008080&icon_color=#008080&hide_border=true" width="">
+
 ### Strong in-
 
 Android studio, Kotlin, Firebase, Figma, Git, Github.
@@ -31,8 +33,6 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 681 Contributions in the Year 2021
