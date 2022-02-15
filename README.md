@@ -76,13 +76,13 @@ Sunday       50 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-sh                       17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -99,5 +99,5 @@ JavaScript               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2022 17:16:38 UTC
+ Last Updated on 15/02/2022 17:16:36 UTC
 <!--END_SECTION:waka-->
