@@ -33,13 +33,15 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 140 Contributions in the Year 2022
  > 
-> 📦 989.7 kB Used in GitHub's Storage 
+> 📦 989.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -99,5 +101,5 @@ Swift                    8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 17:26:08 UTC
+ Last Updated on 07/05/2022 17:21:05 UTC
 <!--END_SECTION:waka-->
