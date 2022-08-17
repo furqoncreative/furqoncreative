@@ -33,7 +33,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,7 +41,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 
 > 🏆 197 Contributions in the Year 2022
  > 
-> 📦 990.3 kB Used in GitHub's Storage 
+> 📦 990.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -78,18 +78,13 @@ Sunday       54 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    26 hrs 30 mins      ██████████████████████░░░   90.03% 
-Kotlin                   2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.52% 
-GitIgnore file           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8% 
-Groovy                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66% 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  26 hrs 30 mins      ██████████████████████░░░   90.03% 
-Android Studio           2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.97%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  29 hrs 26 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -106,5 +101,5 @@ Swift                    8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2022 17:29:11 UTC
+ Last Updated on 17/08/2022 17:26:37 UTC
 <!--END_SECTION:waka-->
