@@ -33,7 +33,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C210%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,6 +49,45 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
  > 
 > 🔑 26 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
+🌆 Daytime    133 commits    ███████░░░░░░░░░░░░░░░░░░   30.3% 
+🌃 Evening    202 commits    ███████████░░░░░░░░░░░░░░   46.01% 
+🌙 Night      45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.25%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       101 commits    █████░░░░░░░░░░░░░░░░░░░░   23.01% 
+Tuesday      69 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
+Wednesday    79 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.0% 
+Thursday     42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.57% 
+Friday       73 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.63% 
+Saturday     21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
+Sunday       54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.3%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -62,5 +101,5 @@ Swift                    8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 17:21:29 UTC
+ Last Updated on 05/09/2022 17:24:55 UTC
 <!--END_SECTION:waka-->
