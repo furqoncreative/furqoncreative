@@ -49,6 +49,45 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
  > 
 > 🔑 26 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
+🌆 Daytime    121 commits    ███████░░░░░░░░░░░░░░░░░░   28.74% 
+🌃 Evening    202 commits    ████████████░░░░░░░░░░░░░   47.98% 
+🌙 Night      45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.69%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       99 commits     ██████░░░░░░░░░░░░░░░░░░░   23.52% 
+Tuesday      69 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
+Wednesday    73 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.34% 
+Thursday     34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.08% 
+Friday       71 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
+Saturday     21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.99% 
+Sunday       54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.83%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -62,5 +101,5 @@ Swift                    8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2022 17:30:28 UTC
+ Last Updated on 15/09/2022 17:28:11 UTC
 <!--END_SECTION:waka-->
