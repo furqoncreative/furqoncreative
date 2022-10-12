@@ -33,9 +33,9 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C210%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C213%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -78,13 +78,18 @@ Sunday       54 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     30 mins             █████████████████████████   100.0%
+Kotlin                   2 hrs 10 mins       ███████████████░░░░░░░░░░   61.06% 
+HTML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
+XML                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
+GitIgnore file           19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83%
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.0%
+Android Studio           3 hrs 3 mins        █████████████████████░░░░   85.65% 
+VS Code                  30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.35%
 
 💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.0%
+Mac                      3 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
@@ -101,5 +106,5 @@ Swift                    8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2022 17:32:56 UTC
+ Last Updated on 12/10/2022 17:42:54 UTC
 <!--END_SECTION:waka-->
