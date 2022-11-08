@@ -33,7 +33,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C260%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C263%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,7 +41,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 
 > 🏆 198 Contributions in the Year 2022
  > 
-> 📦 990.1 kB Used in GitHub's Storage 
+> 📦 989.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -78,17 +78,17 @@ Sunday       54 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Kotlin                   7 hrs 16 mins       ███████████████░░░░░░░░░░   62.48% 
-XML                      2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.35% 
-Java                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.24% 
-GitIgnore file           30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-Groovy                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44%
+Kotlin                   7 hrs 23 mins       █████████████████░░░░░░░░   67.78% 
+XML                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
+Java                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.73% 
+Groovy                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
+Properties               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91%
 
 🔥 Editors: 
-Android Studio           11 hrs 39 mins      █████████████████████████   100.0%
+Android Studio           10 hrs 54 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      11 hrs 39 mins      █████████████████████████   100.0%
+Mac                      10 hrs 54 mins      █████████████████████████   100.0%
 
 ```
 
@@ -105,5 +105,5 @@ Swift                    8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2022 17:28:05 UTC
+ Last Updated on 08/11/2022 17:27:17 UTC
 <!--END_SECTION:waka-->
