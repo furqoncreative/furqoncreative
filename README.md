@@ -33,7 +33,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C263%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C266%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,7 +41,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 
 > 🏆 198 Contributions in the Year 2022
  > 
-> 📦 989.8 kB Used in GitHub's Storage 
+> 📦 990.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -49,49 +49,6 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
  > 
 > 🔑 26 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
-🌆 Daytime    114 commits    ███████░░░░░░░░░░░░░░░░░░   27.87% 
-🌃 Evening    199 commits    ████████████░░░░░░░░░░░░░   48.66% 
-🌙 Night      45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.0%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       99 commits     ██████░░░░░░░░░░░░░░░░░░░   24.21% 
-Tuesday      64 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
-Wednesday    66 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
-Thursday     34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.31% 
-Friday       71 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
-Saturday     21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-Sunday       54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.2%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Kotlin                   7 hrs 23 mins       █████████████████░░░░░░░░   67.78% 
-XML                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
-Java                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.73% 
-Groovy                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
-Properties               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91%
-
-🔥 Editors: 
-Android Studio           10 hrs 54 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      10 hrs 54 mins      █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -105,5 +62,5 @@ Swift                    8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2022 17:27:17 UTC
+ Last Updated on 09/11/2022 17:23:35 UTC
 <!--END_SECTION:waka-->
