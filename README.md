@@ -35,7 +35,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C280%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -102,5 +102,5 @@ Swift                    8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2022 17:15:51 UTC
+ Last Updated on 30/11/2022 17:17:27 UTC
 <!--END_SECTION:waka-->
