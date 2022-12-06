@@ -33,7 +33,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C280%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C280%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -41,7 +41,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 
 > 🏆 199 Contributions in the Year 2022
  > 
-> 📦 990.2 kB Used in GitHub's Storage 
+> 📦 988.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -78,14 +78,18 @@ Sunday       14 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████░░░░░░░░   68.33% 
-HTML                     0 secs              ████████░░░░░░░░░░░░░░░░░   31.67%
+HTML                     9 mins              ███████████░░░░░░░░░░░░░░   46.51% 
+JSON                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   22.69% 
+TOML                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   22.42% 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   7.15% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  20 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+Mac                      20 mins             ████████████████████████░   97.02% 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.98%
 
 ```
 
@@ -102,5 +106,5 @@ Swift                    8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2022 17:16:54 UTC
+ Last Updated on 06/12/2022 17:16:19 UTC
 <!--END_SECTION:waka-->
