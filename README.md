@@ -93,13 +93,13 @@ No Activity Tracked This Week
 ```text
 Kotlin                   31 repos            ████████░░░░░░░░░░░░░░░░░   33.7% 
 HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
-Java                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
+JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
+Java                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.78% 
 Swift                    8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
 
 ```
 
 
 
- Last Updated on 27/12/2022 17:14:52 UTC
+ Last Updated on 28/12/2022 17:15:19 UTC
 <!--END_SECTION:waka-->
