@@ -39,7 +39,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 
 **🐱 My GitHub Data** 
 
-> 🏆 199 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 988.6 kB Used in GitHub's Storage 
  > 
@@ -49,45 +49,6 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
  > 
 > 🔑 26 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    38 commits     █████░░░░░░░░░░░░░░░░░░░░   19.69% 
-🌆 Daytime    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.65% 
-🌃 Evening    87 commits     ███████████░░░░░░░░░░░░░░   45.08% 
-🌙 Night      32 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.58%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       50 commits     ██████░░░░░░░░░░░░░░░░░░░   25.91% 
-Tuesday      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.65% 
-Wednesday    26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.47% 
-Thursday     9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.66% 
-Friday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   22.28% 
-Saturday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.77% 
-Sunday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.25%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -101,5 +62,5 @@ Swift                    8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 17:14:21 UTC
+ Last Updated on 02/01/2023 17:15:03 UTC
 <!--END_SECTION:waka-->
