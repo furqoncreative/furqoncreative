@@ -33,7 +33,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C284%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C284%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,13 +78,15 @@ Sunday       14 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    17 mins             ███████████████████████░░   92.74% 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  18 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      18 mins             █████████████████████████   100.0%
 
 ```
 
@@ -101,5 +103,5 @@ Swift                    8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/01/2023 17:15:40 UTC
+ Last Updated on 27/01/2023 17:15:55 UTC
 <!--END_SECTION:waka-->
