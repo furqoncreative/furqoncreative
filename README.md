@@ -76,14 +76,13 @@ Sunday                   200 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-CSS                      3 mins              ██████████████████████░░░   89.33 % 
-Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -99,5 +98,5 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/03/2023 17:20:38 UTC
+ Last Updated on 24/03/2023 17:19:28 UTC
 <!--END_SECTION:waka-->
