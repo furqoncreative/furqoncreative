@@ -35,7 +35,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C292%20hrs%207%20mins-blue)
 
-![Profile Views](https://komarev.com/ghpvc/?username=furqoncreative&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=furqoncreative)
 
 **🐱 My GitHub Data** 
 
