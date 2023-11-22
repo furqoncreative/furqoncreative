@@ -33,8 +33,6 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C499%20hrs%2027%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -76,13 +74,13 @@ Sunday                   110 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    24 hrs 58 mins      █████████████████████████   100.00 % 
+Other                    27 hrs 58 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     24 hrs 58 mins      █████████████████████████   100.00 % 
+Edge                     27 hrs 58 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -98,5 +96,5 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2023 17:16:42 UTC
+ Last Updated on 22/11/2023 17:18:18 UTC
 <!--END_SECTION:waka-->
