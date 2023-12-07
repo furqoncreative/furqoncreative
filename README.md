@@ -33,6 +33,8 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C579%20hrs%201%20min-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -47,6 +49,43 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
  > 
 > 🔑 28 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                133 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+🌆 Daytime                415 commits         ████████████░░░░░░░░░░░░░   48.94 % 
+🌃 Evening                262 commits         ████████░░░░░░░░░░░░░░░░░   30.90 % 
+🌙 Night                  38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Tuesday                  178 commits         █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Wednesday                146 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Thursday                 96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Friday                   95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Saturday                 53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Sunday                   192 commits         ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Other                    30 hrs 45 mins      █████████████████████████   99.93 % 
+Figma Design             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+🔥 Editors: 
+Edge                     30 hrs 47 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    30 hrs 47 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -60,5 +99,5 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 17:17:49 UTC
+ Last Updated on 07/12/2023 17:18:19 UTC
 <!--END_SECTION:waka-->
