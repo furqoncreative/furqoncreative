@@ -33,7 +33,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C129%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C134%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,14 +74,14 @@ Sunday                   211 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    29 hrs 50 mins      █████████████████████████   99.95 % 
+Other                    35 hrs 5 mins       █████████████████████████   99.95 % 
 Figma Design             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Edge                     29 hrs 51 mins      █████████████████████████   100.00 % 
+Edge                     35 hrs 6 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    29 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    35 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -97,5 +97,5 @@ Rust                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2024 17:18:23 UTC
+ Last Updated on 06/04/2024 17:16:57 UTC
 <!--END_SECTION:waka-->
