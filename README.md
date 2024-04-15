@@ -33,6 +33,8 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C149%20hrs%2035%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -94,5 +96,5 @@ Rust                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 22:45:36 UTC
+ Last Updated on 15/04/2024 17:15:36 UTC
 <!--END_SECTION:waka-->
