@@ -76,14 +76,13 @@ Sunday                   502 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 12 mins             ███████████████░░░░░░░░░░   61.77 % 
-Kotlin                   7 mins              ██████████░░░░░░░░░░░░░░░   38.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -99,5 +98,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2024 17:21:58 UTC
+ Last Updated on 25/10/2024 17:23:34 UTC
 <!--END_SECTION:waka-->
