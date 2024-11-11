@@ -33,6 +33,8 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C693%20hrs%2058%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -47,6 +49,42 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
  > 
 > 🔑 35 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1034 commits        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+🌆 Daytime                3423 commits        ████████████████░░░░░░░░░   65.68 % 
+🌃 Evening                700 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+🌙 Night                  55 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   949 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Tuesday                  926 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Wednesday                1206 commits        ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Thursday                 722 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Friday                   813 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Saturday                 94 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Sunday                   502 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               3 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+IntelliJ IDEA            3 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    3 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -60,5 +98,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2024 17:21:13 UTC
+ Last Updated on 11/11/2024 17:21:38 UTC
 <!--END_SECTION:waka-->
