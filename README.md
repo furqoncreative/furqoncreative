@@ -33,15 +33,13 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C693%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C697%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 998.6 kB Used in GitHub's Storage 
- > 
-> 🏆 1,129 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,13 +74,17 @@ Sunday                   502 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 mins              █████████████████████████   100.00 % 
+JavaScript               2 hrs 23 mins       ████████████████░░░░░░░░░   62.06 % 
+JSON                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+TypeScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+PHP                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+Linux                    3 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -98,5 +100,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/11/2024 17:21:38 UTC
+ Last Updated on 12/11/2024 17:21:59 UTC
 <!--END_SECTION:waka-->
