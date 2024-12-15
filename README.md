@@ -41,6 +41,8 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 
 > 📦 998.6 kB Used in GitHub's Storage 
  > 
+> 🏆 1,248 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 115 Public Repositories 
@@ -100,5 +102,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2024 17:21:06 UTC
+ Last Updated on 15/12/2024 17:21:23 UTC
 <!--END_SECTION:waka-->
