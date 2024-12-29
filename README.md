@@ -90,13 +90,13 @@ No Activity Tracked This Week
 ```text
 Kotlin                   40 repos            ███████░░░░░░░░░░░░░░░░░░   27.21 % 
 JavaScript               21 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+TypeScript               8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Dart                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 
 
 
 
- Last Updated on 28/12/2024 17:21:31 UTC
+ Last Updated on 29/12/2024 17:21:27 UTC
 <!--END_SECTION:waka-->
