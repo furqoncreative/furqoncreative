@@ -33,7 +33,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C729%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C730%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,7 +41,7 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 
 > 📦 998.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,254 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,17 +76,17 @@ Sunday                   448 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               6 mins              ██████████████████░░░░░░░   71.81 % 
-JSON                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Rust                     27 mins             ██████████░░░░░░░░░░░░░░░   39.99 % 
+JSON                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+JavaScript               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 9 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.00 % 
+Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -102,5 +102,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2024 17:22:29 UTC
+ Last Updated on 01/01/2025 17:21:32 UTC
 <!--END_SECTION:waka-->
