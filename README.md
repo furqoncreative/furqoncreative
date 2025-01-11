@@ -33,11 +33,15 @@ Linux, REST API, Java, PHP, HTML, Bootstrap, MySql, Laravel, CodeIgniter.
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C735%20hrs%2021%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 998.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,7 +78,7 @@ Sunday                   448 commits         ██░░░░░░░░░�
 💬 Programming Languages: 
 Kotlin                   1 hr 9 mins         █████████████░░░░░░░░░░░░   50.23 % 
 Rust                     33 mins             ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-TOML                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+TOML                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
 Blade Template           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
@@ -98,5 +102,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2025 17:22:32 UTC
+ Last Updated on 11/01/2025 17:21:32 UTC
 <!--END_SECTION:waka-->
